@@ -3,12 +3,14 @@ Sistema Microcontrolado
 
 Lista de Componentes del Brazo: 
 
-Micro Servomotor Tower Pro (X2): Estan para hacer que la pinza del brazo robotico agarre y para controlar el paso de las bolas
+Micro Servomotor Tower Pro (X2): Estan para hacer que la pinza del brazo robotico agarre y para controlar el paso de las bolas 
+https://tienda.bricogeek.com/servomotores/1880-micro-servo-motor-tower-pro-mg90s.html
 
-Servomotor Hitec (X2): Estan para que el brazo pueda rotar 
+Servo estándar Hitec HS-311 (X2): Estan para que el brazo pueda rotar  
+https://www.flashrc.com/es/servos/33545-servo-estandar-hitec-hs-311-43g-3-5kg-cm-0-15s-60.html
 
 Sensor de Color RGB TCS34725: Manda una señal en cuanto detecta algo, esta señal siendo un color 
-https://es.aliexpress.com/item/1005006745936264.html?src=google&pdp_npi=4%40dis%21EUR%212.62%212.41%21%21%21%21%21%40%2112000038167934769%21ppc%21%21%21&src=google&albch=shopping&acnt=439-079-4345&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=es1005006745936264&ds_e_product_merchant_id=5352158365&ds_e_product_country=ES&ds_e_product_language=es&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21840696692&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gclid=CjwKCAiAmMC6BhA6EiwAdN5iLb73BmwEQKYic0JUcVb3TzLL1_Ytfg_u9wid5Ic3Dcw9ZzIeIzB3tBoCtYAQAvD_BwE
+https://electronperdido.com/shop/sensores/luz/tcs34725-sensor-de-color-rgb/
 
 Lampara redonda LED Mokungit-16L: Recibe la señal del sensor de color y se ilumina en base al color que le a mandado el sensor
 
