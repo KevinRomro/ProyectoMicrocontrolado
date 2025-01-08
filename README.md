@@ -18,3 +18,4 @@ Placa controladora Arduino modelo MEGA Keyestudio 2560:
 https://abcescolar.pt/es/products/placa-controladora-arduino-mega-2560-r3-keyestudio?gad_source=1&gclid=CjwKCAiAmMC6BhA6EiwAdN5iLQ0SSRJHwu8YoRB8UORG6f0nJM6QfniVU8ojshFctLN0tvqdOmw-jxoCp4IQAvD_BwE
 
 Controlador SERVO: Para controlar los motores
+Joystick KY-023
